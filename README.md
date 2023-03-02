@@ -1,6 +1,6 @@
 
 
-<img src="https://vivifyassets.s3.ap-south-1.amazonaws.com/lifeeazy-logo1.png" align="right" width="250"/> <img src="https://drive.google.com/file/d/1XgGTluw7lWp-DROSa5Ri5S6E6wrQyHkh/view?usp=share_link" width="180"/> 
+<img src="https://vivifyassets.s3.ap-south-1.amazonaws.com/lifeeazy-logo1.png" align="right" width="250"/> <img src="https://vivifyassets.s3.ap-south-1.amazonaws.com/pdf_split_image-removebg-preview.png" width="180"/> 
 
 <h1 font-size="50px" align="center">PDF Split using Python</h1>
 
